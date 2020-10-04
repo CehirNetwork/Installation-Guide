@@ -1,4 +1,4 @@
-# Free
+# CREDIT TO EGG82
 
 ## Hardware
   Choosing the right hardware: [Hardware is hard](https://disconsented.com/posts/hardware-is-hard/)
